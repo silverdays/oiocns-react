@@ -124,4 +124,4 @@
 ### 导师 Mentor
 
 - 权力：决定项目发展方向，对项目进行指导
-- 导师[panzhaohui]https://github.com/panzhaohui
+- 导师[panzhaohui](https://github.com/panzhaohui)
