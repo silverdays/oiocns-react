@@ -113,7 +113,7 @@
 
 - 要求： 完成至少5个pr的提交和合并，并得到mentor的邀请
 - 权力：review和accept pr
-- Committer列表：
+- Committer列表：[15168347908](https://github.com/15168347908)
 
 ### 维护者 maintainer
 
